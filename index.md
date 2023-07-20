@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Tilburg University Thesis](/MasterThesis)
+[Tilburg University Thesis]([/MasterThesis](https://github.com/BorjaDaguerre/MasterThesis))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
