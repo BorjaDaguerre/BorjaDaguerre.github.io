@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Tilburg University Thesis](https://github.com/BorjaDaguerre/MasterThesis/blob/main/CLassification_models_comparision.pdf)
+[Tilburg University Thesis](https://github.com/BorjaDaguerre/MasterThesis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
