@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Predicting Promotions: using HR features to predict promotions](/sample_page)
-<img src="images/HR_promotions_thumbnail.jpg?raw=true"/>
+<img src="images/HR_promotions_thumbnail.png?raw=true"/>
 
 ---
 [Tilburg University Thesis](https://github.com/BorjaDaguerre/MasterThesis)
