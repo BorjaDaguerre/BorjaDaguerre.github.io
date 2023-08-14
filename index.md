@@ -9,7 +9,7 @@
 
 ---
 [Tilburg University Thesis](https://github.com/BorjaDaguerre/MasterThesis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Thesis_thumbnail.jpg?raw=true"/>
 
 
 ### Category Name 2
