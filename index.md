@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Predicting Promotions: using HR features to predict promotions](https://github.com/BorjaDaguerre/Predicting_promotions))
+[Predicting Promotions: using HR features to predict company promotions](https://github.com/BorjaDaguerre/Predicting_promotions)
 <img src="images/HR_promotions_results.png?raw=true"/>
 
 ---
