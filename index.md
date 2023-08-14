@@ -4,18 +4,13 @@
 
 ### Category Name 1 
 
-[Predicting Promotions: using HR features to predict promotions](/sample_page)
-<img src="images/HR_promotions_thumbnail.png?raw=true"/>
+[Predicting Promotions: using HR features to predict promotions](https://github.com/BorjaDaguerre/Predicting_promotions))
+<img src="images/HR_promotions_results.png?raw=true"/>
 
 ---
 [Tilburg University Thesis](https://github.com/BorjaDaguerre/MasterThesis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Category Name 2
 
