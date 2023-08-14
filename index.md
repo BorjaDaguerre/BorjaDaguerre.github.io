@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects
 
 [Predicting Promotions: using HR features to predict company promotions](https://github.com/BorjaDaguerre/Predicting_promotions)
 <img src="images/HR_promotions_results.png?raw=true"/>
