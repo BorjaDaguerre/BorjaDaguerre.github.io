@@ -5,23 +5,9 @@
 ### Data Science Projects
 
 [Predicting Promotions: using HR features to predict company promotions](https://github.com/BorjaDaguerre/Predicting_promotions)
-<img src="images/HR_promotions_results.png?raw=true"/>
+<img src="images/HR_promotions_thumbnail.jpg?raw=true"/>
 
 ---
-[Tilburg University Thesis](https://github.com/BorjaDaguerre/MasterThesis)
-<img src="images/Thesis_thumbnail.jpg?raw=true"/>
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
