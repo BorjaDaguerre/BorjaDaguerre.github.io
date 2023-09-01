@@ -9,6 +9,10 @@
 
 ---
 
+[Forecasting Household Energy Consumption](https://github.com/BorjaDaguerre/Energy_Household_Forecast)
+<img src="images/Energy_forecast_thumbnail1.jpg?raw=true"/>
+
+
 
 
 ---
