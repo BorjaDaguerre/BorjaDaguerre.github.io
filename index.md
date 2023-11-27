@@ -17,3 +17,8 @@
 [Demand Forecast for Optimized Inventory Planning - EDA](https://github.com/BorjaDaguerre/Demand-Forecast-for-Optimized-Inventory-Planning)
 <img src="images/thumbnail_demandForecast1.png?raw=true"/>
 
+---
+
+[Air Quality App](https://github.com/BorjaDaguerre/AirPollutionApp)
+<img src="images/thumbnail_AirQualityApp.png?raw=true"/>
+
